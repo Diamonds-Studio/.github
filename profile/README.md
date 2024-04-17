@@ -11,5 +11,5 @@
 👩‍💻 Какие фреймворки вы используете? Vue, ASP.NET Core, WebSockets
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Diamons-Studio/.github/main/github-metrics.svg" align="center"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Diamonds-Studio/.github/main/github-metrics.svg" align="center"></p>
 
