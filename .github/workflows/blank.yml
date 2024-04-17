@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: sp-sale
+          user: Diamonds-Studio
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
