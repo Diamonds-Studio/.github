@@ -1,28 +1,43 @@
-# Привет! 
+# Hi!  
 
-## **Небольшой ввод в курс дела:**
+## **A Quick Introduction:**  
 
-### 🙋‍♀️ Немного о вас? Мы команда разработчиков Diamonds Studio! 
-  У нас в штате 8 разработчиков.
-  
-  - Hepatir:
-    - Тимлид и Бекенд разработчик с высшим образованием. Работает в топ-20 компании Германии. Имеет 2.5 года корпоративной разработки. Стек: ASP, .NET
-  - rafaello1209:
-    - Бекенд разработчик с опытом в ASP.NET обладает глубокими знаниями в области разработки веб-приложений, специализируясь на создании серверной части приложений. Он умеет эффективно использовать инструменты и технологии .NET Framework для создания масштабируемых и надежных веб-сервисов и приложений.
-  - yawaflua:
-    - Фуллстак разработчик-самоучка. Работает на фрилансе на протяжении года. Имеет менее года корпоративной разработки. Стек: ASP, .NET, DevOps Docker, Vue.JS
-  - FUpir:
-    - Фронтенд разаботчик-самоучка и дизайнер студии Diamonds Studio. Использует стек Vue.JS
-  - Madara0880E:
-    - Фронтенд разработчик-самоучка и дизайнер студии Diamonds Studio. Около 5 месяцев корпоративной разработки. Использует стек Vue.JS
-  - hunamuna123:
-    - Фронтенд разработчик-самоучка и дизайнер студии Diamonds Studio. Использует стек Vue.JS
-  - CLARFFY
-    - Дизайнер студии Diamonds Studio. Использует Figma 
+### 🙋‍♀️ A Little About Us  
+We are the development team of **Diamonds Studio!**  
+Our team consists of **8 developers.**  
 
-### 🌈 Как нам помочь с разработкой? Пока что никак, но если вы талантливый верстальщик/фронтендер/дизайнер, напишите <a href="https://discord.gg/ZducR5bRch">в дискорд</a>
+- **Hepatir:**  
+  - Team Lead and Backend Developer with a higher education degree. Works at a top-20 company in Germany. Has **2.5 years** of corporate development experience.  
+  - **Tech Stack:** ASP, .NET  
 
-### 👩‍💻 Какие фреймворки вы используете? Vue.js, ASP.NET Core, SignalR/WebSockets, DevOps Docker 
+- **rafaello1209:**  
+  - Backend Developer with experience in **ASP.NET**. Possesses deep knowledge of web application development, specializing in server-side application development.  
+  - Skilled in effectively utilizing **.NET Framework** tools and technologies to create scalable and reliable web services and applications.  
+
+- **yawaflua:**  
+  - Self-taught Full-Stack Developer. Has been freelancing for a year and has **less than a year** of corporate development experience.  
+  - **Tech Stack:** ASP, .NET, DevOps Docker, Vue.js  
+
+- **FUpir:**  
+  - Self-taught Frontend Developer and **designer** at Diamonds Studio.  
+  - **Tech Stack:** Vue.js  
+
+- **Madara0880E:**  
+  - Self-taught Frontend Developer and **designer** at Diamonds Studio. Has **around 5 months** of corporate development experience.  
+  - **Tech Stack:** Vue.js  
+
+- **hunamuna123:**  
+  - Self-taught Frontend Developer and **designer** at Diamonds Studio.  
+  - **Tech Stack:** Vue.js  
+
+- **CLARFFY:**  
+  - **Designer** at Diamonds Studio.  
+  - **Tech Stack:** Figma  
+
+### 🌈 How Can You Help With Development?  
+At the moment, we don't need help, **but** if you're a talented **markup developer/frontender/designer,** feel free to reach out to us on **[Discord](https://discord.gg/ZducR5bRch)!**  
+
+### 👩‍💻 What Frameworks Do You Use?  
+**Vue.js, ASP.NET Core, SignalR/WebSockets, DevOps Docker**  
 
 [![](https://raw.githubusercontent.com/Diamonds-Studio/.github/main/github-metrics.svg)](https://lucky-diamonds.ru/)
-
