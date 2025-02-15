@@ -2,7 +2,7 @@
 
 ### 🙋‍♀️ A Little About Us  
 We are the development team of **Diamonds Studio!**  
-Our team consists of **8 developers.**  
+Our team consists of **7 developers.**  
 
 - **Hepatir:**  
   - Team Lead and Backend Developer with a higher education degree. Works at a top-20 company in Germany. Has **2.5 years** of corporate development experience.  
