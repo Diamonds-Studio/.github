@@ -1,6 +1,4 @@
-# Hi!  
-
-## **A Quick Introduction:**  
+# Hi! **A Quick Introduction:**  
 
 ### 🙋‍♀️ A Little About Us  
 We are the development team of **Diamonds Studio!**  
